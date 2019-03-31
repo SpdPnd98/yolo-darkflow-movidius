@@ -2,7 +2,7 @@ Need to have darkflow (https://github.com/thtrieu/darkflow) installed in the pat
 
 You can follow the next steps o run the install.sh script: 
 ```
-git clone https://github.com/fernandodelacalle/yolo-darkflow-movidius.git
+git clone https://github.com/SpdPnd98/yolo-darkflow-movidius.git
 
 cd yolo-darkflow-movidius/
 pip install --upgrade cython
